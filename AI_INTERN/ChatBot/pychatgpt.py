@@ -1,5 +1,5 @@
 import openai
-openai.api_key='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'
+openai.api_key='YOUR API KEY'
 messages=[{"role":"system","content":
            "You arw a intelloigent assistent."}]
 
